@@ -1,5 +1,8 @@
 # Reviewer checklist - điền khi kiểm bài người khác
 
+> Không áp dụng - làm bài cá nhân, không có bạn cùng nhóm để kiểm chéo. Giáo viên đã xác nhận
+> miễn phần này cho trường hợp làm cá nhân (xem `reports/review_partner.md`).
+
 Người gán: ______   Người kiểm: ______   Ngày: ______
 
 Chạy trước khi soi bằng mắt:
